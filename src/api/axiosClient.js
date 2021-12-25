@@ -11,7 +11,7 @@ const axiosClient = axios.create({
     paramsSerializer: params => queryString.stringify({...params,api_key: apiConfig.apiKey})
 });
 
-axiosClient.interceptors.request.use(async (confg) => config  );
+axiosClient.interceptors.request.use(async (config) => config);
 
 axiosClient.interceptors.response.use((response) => {
     if (response && response.data) {
