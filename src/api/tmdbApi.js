@@ -21,7 +21,6 @@ export const tvType = {
 const tmdApi = {
     getMoviesList: (type, params) => {
          const url= 'movie/' + movieType[type];
-         console.log(url)
         // const url= 'https://api.themoviedb.org/3/movie/27205/recommendations?';
         // const url= 'https://api.themoviedb.org/3/keyword/33722t/movies'; // true crime
         // const url= 'https://api.themoviedb.org/3/keyword/21747/movies'; // polish
