@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/movie-app/static/css/main.e071715e.css",
-    "main.js": "/movie-app/static/js/main.99323c19.js",
-    "static/media/boxicons.svg": "/movie-app/static/media/boxicons.045b05bf2dc119267a90.svg",
-    "static/media/footer-bg.jpg": "/movie-app/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
-    "static/media/boxicons.eot": "/movie-app/static/media/boxicons.092b78589f3f53e60030.eot",
-    "static/media/boxicons.woff": "/movie-app/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
-    "static/media/boxicons.ttf": "/movie-app/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
-    "static/media/boxicons.woff2": "/movie-app/static/media/boxicons.8d765747a5588f36ff61.woff2",
-    "static/media/tmovie.png": "/movie-app/static/media/tmovie.67797e942e59deb68592.png",
-    "index.html": "/movie-app/index.html",
-    "main.e071715e.css.map": "/movie-app/static/css/main.e071715e.css.map",
-    "main.99323c19.js.map": "/movie-app/static/js/main.99323c19.js.map"
+    "main.css": "./static/css/main.923be1f6.css",
+    "main.js": "./static/js/main.c960ee13.js",
+    "static/media/boxicons.svg": "./static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/footer-bg.jpg": "./static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "./static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "./static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "./static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "./static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/tmovie.png": "./static/media/tmovie.67797e942e59deb68592.png",
+    "index.html": "./index.html",
+    "main.923be1f6.css.map": "./static/css/main.923be1f6.css.map",
+    "main.c960ee13.js.map": "./static/js/main.c960ee13.js.map"
   },
   "entrypoints": [
-    "static/css/main.e071715e.css",
-    "static/js/main.99323c19.js"
+    "static/css/main.923be1f6.css",
+    "static/js/main.c960ee13.js"
   ]
 }
